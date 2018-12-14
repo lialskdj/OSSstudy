@@ -6,6 +6,7 @@ def main():
 	print("master branch!!")
 	print("i'm test")
 	print("local repository")
+	print("add Line in github") 
 
 if __name__ == "__main__":
 	main()
